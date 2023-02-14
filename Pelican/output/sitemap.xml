@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://albertkimgames.com/</loc>
-<lastmod>2023-02-14T13:50:23-00:00</lastmod>
+<loc>https://albertkimgames.com/</loc>
+<lastmod>2023-02-14T14:06:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/tags.html</loc>
-<lastmod>2023-02-14T13:50:23-00:00</lastmod>
+<loc>https://albertkimgames.com/tags.html</loc>
+<lastmod>2023-02-14T14:06:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/categories.html</loc>
-<lastmod>2023-02-14T13:50:23-00:00</lastmod>
+<loc>https://albertkimgames.com/categories.html</loc>
+<lastmod>2023-02-14T14:06:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/authors.html</loc>
-<lastmod>2023-02-14T13:50:23-00:00</lastmod>
+<loc>https://albertkimgames.com/authors.html</loc>
+<lastmod>2023-02-14T14:06:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/archives.html</loc>
-<lastmod>2023-02-14T13:50:23-00:00</lastmod>
+<loc>https://albertkimgames.com/archives.html</loc>
+<lastmod>2023-02-14T14:06:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/about/</loc>
+<loc>https://albertkimgames.com/about/</loc>
 <lastmod>2023-02-14T13:21:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/2023/02/welcome/</loc>
+<loc>https://albertkimgames.com/2023/02/welcome/</loc>
 <lastmod>2023-02-14T13:16:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/category/blog.html</loc>
+<loc>https://albertkimgames.com/category/blog.html</loc>
 <lastmod>2023-02-14T13:16:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://albertkimgames.com/author/albert-kim.html</loc>
+<loc>https://albertkimgames.com/author/albert-kim.html</loc>
 <lastmod>2023-02-14T13:16:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
