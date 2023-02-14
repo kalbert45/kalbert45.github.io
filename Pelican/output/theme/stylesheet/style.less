@@ -16,7 +16,8 @@ h6 {
 }
 
 h1{
-  font-size: 2.4em
+  font-family: @sans;
+  font-size: 2.4em;
 }
 
 h2 {
@@ -44,7 +45,7 @@ body {
   padding: 0;
   background-color: @body-bg;
   color: @text-color;
-  font-family: @sans;
+  font-family: @mono;
   font-size: 1.02em;
   line-height: 1.2em;
 }
@@ -121,7 +122,7 @@ main {
   nav {
     text-align: center;
     text-transform: uppercase;
-    padding: 14px 0 14px 0;
+    padding: 28px 0 28px 0;
     border-bottom: @nav-border-color 1px solid;
 
     // Need to use font-size of 0 so that whitespace between the <a> tags
@@ -133,7 +134,7 @@ main {
     a {
       font-size: 24px;
       padding: 0 4px;
-      border-right: @nav-border-color 1px solid;
+      border-right: @nav-border-color 3px solid;
     }
 
     :last-child {
