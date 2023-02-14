@@ -1,9 +1,9 @@
 AUTHOR = 'Albert Kim'
 SITENAME = 'cabbageking'
 SITEURL = 'https://albertkimgames.com'
-SITELOGO = 'images/icons/profile.png'
+SITELOGO = '/images/icons/profile.png'
 SITETITLE = 'cabbageking'
-FAVICON = 'images/icons/favicon.ico'
+FAVICON = '/images/icons/favicon.ico'
 
 PATH = 'content'
 
