@@ -1,6 +1,6 @@
 AUTHOR = 'Albert Kim'
 SITENAME = 'Albert Kim Games'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://albertkimgames.com'
 SITELOGO = 'images/icons/profile.png'
 SITETITLE = 'Albert Kim'
 FAVICON = 'images/icons/favicon.ico'
