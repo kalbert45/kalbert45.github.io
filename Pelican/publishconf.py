@@ -7,7 +7,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://kalbert45.github.io'
+SITEURL = 'https://albertkimgames.com'
 DOMAIN = SITEURL
 FEED_DOMAIN = SITEURL
 HTTPS = True
