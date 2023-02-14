@@ -41,7 +41,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/kalbert45'),
-          ('itch', 'https://cabbageking.itch.io/'),
+          ('itch-io', 'https://cabbageking.itch.io/'),
            ('steam', 'https://store.steampowered.com/developer/albertkimgames'),
            ('youtube', 'https://www.youtube.com/channel/UC2bUH6QLfYNxZtLYD1EUkbw'))
 

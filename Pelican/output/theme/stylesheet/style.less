@@ -16,7 +16,7 @@ h6 {
 }
 
 h1{
-  font-family: @sans;
+  font-family: @mono;
   font-size: 2.4em;
 }
 
@@ -51,13 +51,13 @@ body {
 }
 
 a {
-  font-family: @sans;
+  font-family: @mono;
   color: @link-color;
   text-decoration: none;
 }
 
 a:hover {
-  font-family: @sans;
+  font-family: @mono;
   color: @link-hover-color;
 }
 
@@ -123,7 +123,7 @@ main {
     text-align: center;
     text-transform: uppercase;
     padding: 28px 0 28px 0;
-    border-bottom: @nav-border-color 1px solid;
+    border-bottom: @nav-border-color 3px solid;
 
     // Need to use font-size of 0 so that whitespace between the <a> tags
     // doesn't have an affect on alignment.
@@ -133,8 +133,8 @@ main {
   nav, .translations {
     a {
       font-size: 24px;
-      padding: 0 4px;
-      border-right: @nav-border-color 3px solid;
+      padding: 0 12px;
+      border-right: @nav-border-color 2px solid;
     }
 
     :last-child {
