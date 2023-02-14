@@ -1,8 +1,8 @@
 AUTHOR = 'Albert Kim'
-SITENAME = 'Albert Kim Games'
+SITENAME = 'cabbageking'
 SITEURL = 'https://albertkimgames.com'
 SITELOGO = 'images/icons/profile.png'
-SITETITLE = 'Albert Kim'
+SITETITLE = 'cabbageking'
 FAVICON = 'images/icons/favicon.ico'
 
 PATH = 'content'
@@ -40,10 +40,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('github', '#'),
-          ('itch', '#'),
-           ('steam', '#'),
-           ('youtube', '#'))
+SOCIAL = (('github', 'https://github.com/kalbert45'),
+          ('itch', 'https://cabbageking.itch.io/'),
+           ('steam', 'https://store.steampowered.com/developer/albertkimgames'),
+           ('youtube', 'https://www.youtube.com/channel/UC2bUH6QLfYNxZtLYD1EUkbw'))
 
 STATIC_PATHS = ['images', 'extra']
 
