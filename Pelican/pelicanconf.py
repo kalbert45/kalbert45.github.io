@@ -26,6 +26,9 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 THEME = 'themes/Flex'
+THEME_COLOR = 'dark'
+USE_LESS = True
+
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['sitemap']
 
