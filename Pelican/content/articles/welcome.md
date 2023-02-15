@@ -12,7 +12,7 @@ With as fresh a perspective as I could manage, I played the game through once.
 
 I took a step back, like a painter about to admire a job well done.
 
-I thought to myself,
+A thought arose,
 
 >"This is trash."
 
