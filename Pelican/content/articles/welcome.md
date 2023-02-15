@@ -4,22 +4,22 @@ Category: Blog
 Summary: Thoughts on making a website
 Status: published
 
-*Beef Jerky* was a several month long solo endeavor. It was tough, but I really did believe in this project. 
-I studied art, music, narrative design - anything that might help improve this game. I put in the hours.
+*Beef Jerky* was a several month long solo endeavor. It was tough, but I believed in it. 
+I studied art, music, narrative design - anything that might help. I put in the hours.
 I put in the days. And then... finally. It was finished. 
 
 With as fresh a perspective as I could manage, I played the game through once.
 
 I took a step back, like a painter about to admire a job well done.
 
-A thought arose,
+A thought slowly arose,
 
 >"This is trash."
 
 Damn. Another game I'm not proud of. Woe is I. I am so full of woe. This doesn't feel great... I can do better
 than this.
 
-Looking back, development was a hot mess. I swapped my plan around so often, so frivolously, and so spontaneously
+Looking back, development was a hot mess. I swapped my ideas around so often, so frivolously, and so spontaneously
 that it's honestly a miracle that I managed to finish. I'd prefer not to repeat this. In the days after completing
 *Beef Jerky*, I wanted to... do anything but lie in bed and sleep too much. Which is what I was doing.
 
