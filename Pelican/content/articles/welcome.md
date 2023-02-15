@@ -16,8 +16,8 @@ A thought slowly arose,
 
 >"This is trash."
 
-Damn. Another game I'm not proud of. Woe is I. I am so full of woe. This doesn't feel great... I can do better
-than this.
+Damn. Another game I'm not proud of. Woe is I. I am so full of woe. Am I doing something wrong, or is this simply 
+a creator's curse? Either way, a bit frustrating... I can't help but feel I can make something better.
 
 Looking back, development was a hot mess. I swapped my ideas around so often, so frivolously, and so spontaneously
 that it's honestly a miracle that I managed to finish. I'd prefer not to repeat this. In the days after completing
