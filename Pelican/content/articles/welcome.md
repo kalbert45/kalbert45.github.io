@@ -29,6 +29,4 @@ rather frustrating... but rewarding nonetheless. Here, you can expect me to post
 as whatever else I feel like posting about. My hope is that this will become a way to organize and consolidate my 
 thoughts, as well as to perhaps teach people a thing or two. :). 
 
-Maybe it'll even be therapeutic?
-
 
