@@ -19,7 +19,9 @@ A thought slowly arose,
 Damn. Another game I'm not proud of. Woe is I. I am so full of woe. Am I doing something wrong, or is this simply 
 a creator's curse? Either way, a bit frustrating... I can't help but feel I can make something better.
 
-Looking back, development was a hot mess. I swapped my ideas around so often, so frivolously, and so spontaneously
+But you know what? If this is what miserable failure feels like... well... it ain't that bad.
+
+Anyways, looking back, development was a hot mess. I swapped my ideas around so often, so frivolously, and so spontaneously
 that it's honestly a miracle that I managed to finish. I'd prefer not to repeat this. In the days after completing
 *Beef Jerky*, I wanted to... do anything but lie in bed and sleep too much. Which is what I was doing.
 
