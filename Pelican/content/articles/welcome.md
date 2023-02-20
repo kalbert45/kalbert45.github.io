@@ -26,9 +26,13 @@ that it's honestly a miracle that I managed to finish. I think I was trying a bi
 In trying to force myself to come up with something cool and unique, I ended up with something half-baked and lukewarm.
 The lesson: my plans require **focus**. 
 
+<br>
+
 Lucas Pope said to center a game around one core mechanic.
 
 Captain Disillusion said the key to creativity is to take something that works and add your own flair to it.
+
+<br>
 
 These are words I did not take seriously enough. Of course, I had to learn this the hard way. I'm always learning 
 things the hard way. Why can't I just listen the first time? >_>
